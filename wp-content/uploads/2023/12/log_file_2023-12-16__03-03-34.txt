@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2023/12/demo-content-import-file_2023-12-16__03-03-34.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---ocdi/after_import---
+
